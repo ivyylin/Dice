@@ -74,7 +74,7 @@ public void setup()
           sum=sum+roll;
           
       }
-      public void sum()
+      public void total()
       {
         fill(0,0,0);
         text("Sum is " + sum, 250,500);

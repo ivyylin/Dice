@@ -19,7 +19,7 @@ public void setup()
   }
   public void draw()
   {
-      background(0,0,255);
+      background(255,255,255);
       for(int row = 0; row < 3; row++)
       {
       for (int col=0; col<3; col++)

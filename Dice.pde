@@ -35,6 +35,7 @@ public void setup()
       }
       i=50;
       j=50;
+      fill(0,0,0);
       Dice1.sum();
   }
   public void mousePressed()

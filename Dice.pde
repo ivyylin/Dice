@@ -75,7 +75,7 @@ public void setup()
       }
       public void sum()
       {
-        setColor(0,0,0);
+        fill(0,0,0)
         text("Sum is " + sum, 250,500);
         sum=0;
       }
